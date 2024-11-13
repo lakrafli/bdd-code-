@@ -14,7 +14,7 @@ Déroulement du Projet
 
     Fusion des données en format JSON pour les manipulations nécessaires
 
-## Résultats##
+## Résultats
 
     Amélioration des performances : Les tests de performance révèlent des gains significatifs dans les temps de réponse des requêtes grâce à l'utilisation de Redis pour la gestion des données.
 
@@ -43,6 +43,6 @@ python script.py
     fichiers.py : Scripts Python pour la conversion des données et l'intégration avec Redis et MongoDB.
     README.md : Documentation détaillée du projet (ce fichier).
 
-## **Auteurs
+## Auteurs
 
 Ce projet a été réalisé par Lakrafli Ismail.
